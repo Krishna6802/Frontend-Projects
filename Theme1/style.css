@@ -19,6 +19,7 @@
 body{
     background: var(--background-color);
     color: var(--text-color);
+    transition: 0.8s;
 }
 .header{
     width: 100%;
@@ -143,4 +144,3 @@ nav ul li a{
         opacity: 0.3;
     }
 }
-
